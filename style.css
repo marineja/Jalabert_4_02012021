@@ -777,7 +777,13 @@ h4 {
 .tc-white {
     color: #F3976C!important;
 }
+.textpagedeux{
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+}
 
+}
 .btn-atomic-tangerine {
     background: #a13a0a;
     color: #FFFFFF!important;
