@@ -473,6 +473,7 @@ button {
     border-bottom-color: rgba(0, 0, 0, .1);
     text-shadow: 0 1px 0 rgba(0, 0, 1, .1);
     box-shadow: 0 1px 3px rgba(0, 0, 1, .25), inset 0 1px 0 0 rgba(255, 255, 255, .15);
+    background-color: #a13a0a;
 }
 
 .icon-md {
@@ -775,7 +776,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f3b79c!important;
+    
 }
 .textpagedeux{
     font-weight: bold;
@@ -1065,4 +1067,7 @@ h4 {
 .remplacementimgdeux{
     font-size: 20px;
   
+}
+.remplacementimgtrois{
+    font-size: 20px;
 }
