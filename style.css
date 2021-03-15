@@ -698,6 +698,7 @@ p {
     padding: 12px 28px 12px 28px;
     font-size: 16px;
     font-weight: 700;
+    background-color: #a13a0a;
 }
 
 .social {
@@ -785,7 +786,7 @@ h4 {
     color: #000000;
 }
 
-}
+
 .btn-atomic-tangerine {
     background: #a13a0a;
     color: #FFFFFF!important;
